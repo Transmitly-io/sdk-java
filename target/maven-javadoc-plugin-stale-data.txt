@@ -1,0 +1,56 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'/root/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.17.2/jackson-databind-2.17.2.jar:/root/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.17.2/jackson-annotations-2.17.2.jar:/root/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.17.2/jackson-core-2.17.2.jar'
+-encoding
+'UTF-8'
+-protected
+--release
+17
+-sourcepath
+'/tmp/pub-sdk-java/src/main/java:/tmp/pub-sdk-java/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/tmp/pub-sdk-java/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-Xdoclint:none
+-doctitle
+'Transmitly Java SDK 1.0.0 API'
+-use
+-version
+-windowtitle
+'Transmitly Java SDK 1.0.0 API'
+io.transmitly
+/root/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.17.2/jackson-databind-2.17.2.jar = 1794842261988
+/root/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.17.2/jackson-annotations-2.17.2.jar = 1794842261984
+/root/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.17.2/jackson-core-2.17.2.jar = 1794842261972
+/tmp/pub-sdk-java/src/main/java = 1794860514234
+/tmp/pub-sdk-java/target/generated-sources/annotations = 1794860517692
+/tmp/pub-sdk-java/target/reports/apidocs/help-doc.html = 1794860528119
+/tmp/pub-sdk-java/target/reports/apidocs/type-search-index.js = 1794860528073
+/tmp/pub-sdk-java/target/reports/apidocs/member-search-index.js = 1794860528074
+/tmp/pub-sdk-java/target/reports/apidocs/serialized-form.html = 1794860527965
+/tmp/pub-sdk-java/target/reports/apidocs/package-search-index.js = 1794860528073
+/tmp/pub-sdk-java/target/reports/apidocs/link.svg = 1794860528131
+/tmp/pub-sdk-java/target/reports/apidocs/allpackages-index.html = 1794860528072
+/tmp/pub-sdk-java/target/reports/apidocs/module-search-index.js = 1794860528073
+/tmp/pub-sdk-java/target/reports/apidocs/script.js = 1794860528131
+/tmp/pub-sdk-java/target/reports/apidocs/allclasses-index.html = 1794860528069
+/tmp/pub-sdk-java/target/reports/apidocs/search.js = 1794860528136
+/tmp/pub-sdk-java/target/reports/apidocs/stylesheet.css = 1794860528124
+/tmp/pub-sdk-java/target/reports/apidocs/search-page.js = 1794860528137
+/tmp/pub-sdk-java/target/reports/apidocs/element-list = 1794860527854
+/tmp/pub-sdk-java/target/reports/apidocs/search.html = 1794860528102
+/tmp/pub-sdk-java/target/reports/apidocs/constant-values.html = 1794860527947
+/tmp/pub-sdk-java/target/reports/apidocs/tag-search-index.js = 1794860528074
+/tmp/pub-sdk-java/target/reports/apidocs/index-all.html = 1794860528100
+/tmp/pub-sdk-java/target/reports/apidocs/overview-tree.html = 1794860528047
+/tmp/pub-sdk-java/target/reports/apidocs/copy.svg = 1794860528131
+/tmp/pub-sdk-java/target/reports/apidocs/index.html = 1794860528104

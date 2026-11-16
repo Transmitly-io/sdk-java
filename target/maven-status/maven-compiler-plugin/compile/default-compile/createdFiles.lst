@@ -1,0 +1,14 @@
+io/transmitly/TransmitlyClient$Emails.class
+io/transmitly/Attachment.class
+io/transmitly/EmailMessage.class
+io/transmitly/TransmitlyClient$Inbound.class
+io/transmitly/TransmitlyClient$Suppressions.class
+io/transmitly/TransmitlyException.class
+io/transmitly/TransmitlyClient.class
+io/transmitly/TransmitlyClient$Webhooks.class
+io/transmitly/TransmitlyClient$RequestExecutor.class
+io/transmitly/TransmitlyClient$Events.class
+io/transmitly/TransmitlyClient$Domains.class
+io/transmitly/TransmitlyClient$Usage.class
+io/transmitly/EmailAccepted.class
+io/transmitly/TransmitlyClient$Messages.class
